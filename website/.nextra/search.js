@@ -105,7 +105,7 @@ const Search = ({ directories }) => {
           fill="none"
           strokeLinecap="round"
           strokeLinejoin="round"
-          stroke-width="2"
+          strokeWidth="2"
           viewBox="0 0 24 24"
           stroke="currentColor"
           className="h-4 w-4 text-gray-400"
