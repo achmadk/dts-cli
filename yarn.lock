@@ -2177,14 +2177,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^16.14.15":
-  version: 16.14.15
-  resolution: "@types/react@npm:16.14.15"
+"@types/react@npm:^17.0.29":
+  version: 17.0.29
+  resolution: "@types/react@npm:17.0.29"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 7003f5c2b38b661b257d2d9dab525549f1fbcf67c2dc39fde09e65136aba9a2f80fa5c471287e629dbce01bf75574cd99f5ede82636dae75cd55111a336926c4
+  checksum: 39280743f6fec1bbc5c8e705976c1738a5526aaa0e693052badf5cd2dd599b6536dd815b651017737a533bf1c03db6a5738498796ff44f806e55324dc7867723
   languageName: node
   linkType: hard
 
@@ -4156,7 +4156,7 @@ __metadata:
     "@types/jest": ^27.0.2
     "@types/lodash": ^4.14.175
     "@types/node": ^14.17.19
-    "@types/react": ^16.14.15
+    "@types/react": ^17.0.29
     "@types/rollup-plugin-json": ^3.0.3
     "@types/sade": ^1.7.3
     "@types/semver": ^7.3.8
