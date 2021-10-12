@@ -3,7 +3,6 @@ import Markdown from "markdown-to-jsx";
 
 const Release = (props) => {
   const { url, name, date, body } = props;
-  console.log("props: ", props);
 
   return (
     <Box>
