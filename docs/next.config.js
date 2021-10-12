@@ -7,4 +7,5 @@ const debug = process.env.NODE_ENV !== 'production';
 module.exports = composed({
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   assetPrefix: !debug ? 'https://weiran-zsd.github.io/dts-cli/' : '',
+  basePath: '/dts-cli',
 });
